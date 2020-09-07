@@ -9,4 +9,3 @@ module Memorable
   
 end
 
-require_relative'../lib/concerns.memorable
