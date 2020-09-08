@@ -8,7 +8,7 @@ class Song
   extend Findable
   include PARAMABLE
   
- #attr_accessor :name
+ attr_accessor :name
   #attr_reader :artist
 
   @@songs = []
