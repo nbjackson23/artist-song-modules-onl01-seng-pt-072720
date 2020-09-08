@@ -11,7 +11,7 @@ class Song
  attr_accessor :name :artist
   #attr_reader :artist
 
-  #@@songs = []
+  @@songs = []
 
   #def initialize
    # @@songs << self
